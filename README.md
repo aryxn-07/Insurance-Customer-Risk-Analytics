@@ -163,7 +163,47 @@ Using SQL window functions (`RANK()`), customers with annual premiums exceeding 
 This project analyzed 50,000 insurance customer records using MySQL to identify key drivers of insurance purchase behavior. Through data exploration, customer segmentation, Common Table Expressions (CTEs), window functions, and business-focused SQL analysis, actionable insights were generated to support customer targeting, cross-selling strategies, and insurance risk assessment.
 
 
+## Dataset Overview
 
+### Total Customers
+
+![Total Customers](Screenshots/01_total_customers.png)
+
+---
+
+### Gender Distribution
+
+![Gender Distribution](Screenshots/02_gender_distribution.png)
+
+---
+
+### Vehicle Damage vs Response Rate
+
+![Vehicle Damage Analysis](Screenshots/03_vehicle_damage_response.png)
+
+Customers with prior vehicle damage recorded significantly higher insurance purchase intent.
+
+---
+
+### Previously Insured vs Response Rate
+
+![Previously Insured Analysis](Screenshots/04_previously_insured_response.png)
+
+Previously uninsured customers demonstrated the highest conversion potential.
+
+---
+
+### Response Rate by Age Group
+
+![Age Group Analysis](Screenshots/05_age_group_response.png)
+
+Customers aged 30–50 exhibited the highest response rates.
+
+---
+
+### Premium Ranking using Window Functions
+
+![Premium Ranking](Screenshots/06_premium_ranking.png)
 
 
 \## Files Included
