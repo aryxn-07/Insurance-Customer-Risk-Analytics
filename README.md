@@ -1,8 +1,8 @@
-\# **Insurance Customer Risk \& Cross-Sell Analytics using MySQL**
+# **Insurance Customer Risk \& Cross-Sell Analytics using MySQL**
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,7 +10,7 @@ This project analyzes 50,000 insurance customer records using MySQL to identify 
 
 
 
-\## Dataset Information
+## Dataset Information
 
 
 
@@ -36,7 +36,7 @@ Total Records Analyzed: 50,000
 
 
 
-\## Objectives
+## Objectives
 
 
 
@@ -52,7 +52,7 @@ Total Records Analyzed: 50,000
 
 
 
-\## SQL Concepts Used
+## SQL Concepts Used
 
 
 
@@ -72,11 +72,11 @@ Total Records Analyzed: 50,000
 
 
 
-\## Analysis Performed
+## Analysis Performed
 
 
 
-\### Data Exploration
+### Data Exploration
 
 \- Total customer count
 
@@ -92,7 +92,7 @@ Total Records Analyzed: 50,000
 
 
 
-\### Business Analysis
+### Business Analysis
 
 \- Overall insurance conversion rate
 
@@ -110,11 +110,11 @@ Total Records Analyzed: 50,000
 
 
 
-\## Key Insights
+## Key Insights
 
 
 
-\### 1. Vehicle Damage is the Strongest Predictor of Insurance Interest
+### 1. Vehicle Damage is the Strongest Predictor of Insurance Interest
 
 
 
@@ -122,7 +122,7 @@ Customers with a history of vehicle damage recorded a 23.76% response rate, comp
 
 
 
-\### 2. Previously Uninsured Customers Drive Cross-Sell Opportunities
+### 2. Previously Uninsured Customers Drive Cross-Sell Opportunities
 
 
 
@@ -130,7 +130,7 @@ Customers who were not previously insured showed a 22.48% response rate, while p
 
 
 
-\### 3. Middle-Aged Customers Show the Highest Purchase Intent
+### 3. Middle-Aged Customers Show the Highest Purchase Intent
 
 
 
@@ -138,7 +138,7 @@ Customers aged 30–50 years demonstrated the highest response rate at 20.76%, o
 
 
 
-\### 4. Balanced Customer Demographics
+### 4. Balanced Customer Demographics
 
 
 
@@ -146,7 +146,7 @@ The dataset consisted of 50,000 customers, including 27,017 male customers and 2
 
 
 
-\### 5. High-Value Premium Segments Identified
+### 5. High-Value Premium Segments Identified
 
 
 
@@ -156,7 +156,7 @@ Using SQL window functions (`RANK()`), customers with annual premiums exceeding 
 
 
 
-\## Project Summary
+## Project Summary
 
 
 
@@ -206,7 +206,7 @@ Customers aged 30–50 exhibited the highest response rates.
 ![Premium Ranking](Screenshots/06_premium_ranking.png)
 
 
-\## Files Included
+## Files Included
 
 
 
@@ -222,7 +222,7 @@ Customers aged 30–50 exhibited the highest response rates.
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
@@ -232,7 +232,7 @@ Customers aged 30–50 exhibited the highest response rates.
 
 
 
-\## Author
+## Author
 
 
 
